@@ -13,7 +13,8 @@ public class git {
 
         System.out.println("hello ccaacava  afadafa");
         System.out.println("push");
-
+         System.out.println("pull");
+         System.out.println("pusll");
 
     }
 }
